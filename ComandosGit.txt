@@ -1,0 +1,12 @@
+"""
+Coamndos git
+° git add .
+° git commit -m "el mansaje"
+° git push   (Para empujar el codigo del repositor local al remoto)
+° git pull   (Para estirar el codigo del repositor remoto al local)
+
+
+Comandos para navegar en la terminal en la terminal
+ls (O "dir" en windows)    - Para ver los archivos existentes
+dc nombre_de_archivo       - Para entrar en el archivo
+cd..                       - Para salir del archivo
